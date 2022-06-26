@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swaroop
+- 👋 Hi, I’m Jaanaki Swaroop Pamidimukkala
 - 👀 I’m interested in 4.0 tech
 - 🌱 I’m currently studying Btech 2nd year at SRM AP and a learner at NxtWave
 - 💞 I’m looking to collaborate on live projcts and researches related to Full stack and AI&ML
